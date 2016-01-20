@@ -86,6 +86,9 @@ if __name__=="__main__":
 	
 		current_error = apply_all_combinations(n,target,current_error);
 
+		if current_error == 0:
+			break;
+
 	if current_error == 0:
 		print "";
 		print "Solved";
