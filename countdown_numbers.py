@@ -21,7 +21,7 @@ operations[1]="+";
 operations[2]="-";
 operations[3]="*";
 operations[4]="/";
-operations[5]=" + 0 * ";
+operations[5]=" + 0 *";
 
 n0 = {};
 
